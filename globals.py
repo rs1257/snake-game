@@ -1,0 +1,8 @@
+X_SIZE = 800
+Y_SIZE = 600
+BLOCK_SIZE = 20
+
+DOWN = [0, 1]
+UP = [0, -1]
+RIGHT = [1, 0]
+LEFT = [-1, 0]
